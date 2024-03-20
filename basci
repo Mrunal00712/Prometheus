@@ -1,0 +1,15 @@
+prediction, why we are having partular trafic in that day, 
+installing in aws cloud
+[root@ip-172-31-13-198 prometheus-2.51.0.linux-amd64]# history
+    1  whoami
+    2  ls
+    3  wget https://github.com/prometheus/prometheus/releases/download/v2.51.0/prometheus-2.51.0.linux-amd64.tar.gz
+    4   
+    5  ls
+    6  tar -xvzf prometheus-2.51.0.linux-amd64.tar.gz
+    7  ls
+    8  cd prometheus-2.51.0.linux-amd64/
+    9  ls
+   10  ./prometheus 
+   11  history
+http://ip:9090
